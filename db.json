@@ -40,47 +40,6 @@
       "isArtisan": 1
     }
   ],
-  "customer": [
-    {
-      "name": "Carlos",
-      "surname": "Montana",
-      "phone": "123456789",
-      "address": "123 Street",
-      "email": "john@gmail.com",
-      "photo": "https://example.com/image1.jpg",
-      "age": "30",
-      "province": "Cusco",
-      "info": "Soy un buen cliente",
-      "password": "password123",
-      "isArtisan": 0,
-      "id": "1",
-      "products":[1,3,5]
-    },
-    {
-      "id": "2",
-      "name": "Alice",
-      "surname": "Smith",
-      "phone": "987654321",
-      "address": "Main Avenue",
-      "email": "alice@gmail.com",
-      "password": "secret456",
-      "photo": "https://example.com/image2.jpg",
-      "isArtisan": 0,
-      "products":[2,4,6]
-    },
-    {
-      "name": "Antonella",
-      "surname": "gonzales",
-      "phone": "98837337",
-      "address": "lima",
-      "email": "Anto@gmail.com",
-      "password": "12345",
-      "photo": "ass",
-      "id": "3",
-      "isArtisan": 0,
-      "products":[7,8]
-    }
-  ],
   "category": [
     {
       "id": 1,
