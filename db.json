@@ -10,7 +10,8 @@
       "businessName": "Artesanias Casas",
       "businessAddress": "456 Avenida Amarilla, Lima",
       "password": "password123",
-      "photo": "https://elperuano.pe/fotografia/thumbnail/2021/03/19/000111455M.jpg"
+      "photo": "https://elperuano.pe/fotografia/thumbnail/2021/03/19/000111455M.jpg",
+      "isArtisan": 1
     },
     {
       "name": "Rosa",
@@ -22,7 +23,8 @@
       "businessAddress": "111 Lima",
       "password": "password123",
       "photo": "https://portal.andina.pe/EDPfotografia3/Thumbnail/2018/03/19/000490236W.jpg",
-      "id": 2
+      "id": 2,
+      "isArtisan": 1
     },
     {
       "name": "Julio",
@@ -34,7 +36,8 @@
       "businessAddress": "874 Calle Angosta",
       "password": "password123",
       "photo": "https://elcomercio.pe/resizer/TIGMyxx573AXPg1cFLhlbxuAtpE=/580x330/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/7HODVPOG7ZFQBBXRKF6I5QEWTI.jpg",
-      "id": 3
+      "id": 3,
+      "isArtisan": 1
     }
   ]
 }
