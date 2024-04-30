@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Juan",
+    "surname": "Casas",
+    "phone": "999 888 777",
+    "address": "123 Calle Feliz",
+    "email": "juan@gmail.com",
+    "businessName": "Artesanias Casas",
+    "businessAddress": "456 Avenida Amarilla, Lima",
+    "password": "password123",
+    "photo": "https://elperuano.pe/fotografia/thumbnail/2021/03/19/000111455M.jpg"
+  },
+  {
+    "name": "Rosa",
+    "surname": "Perez",
+    "phone": "999 766 555",
+    "address": "345 Calle Roja",
+    "email": "rosa@gmail.com",
+    "businessName": "Rosa Peru",
+    "businessAddress": "111 Lima",
+    "password": "password123",
+    "photo": "https://portal.andina.pe/EDPfotografia3/Thumbnail/2018/03/19/000490236W.jpg",
+    "id": 2
+  },
+  {
+    "name": "Julio",
+    "surname": "Flores",
+    "phone": "999 744 332",
+    "address": "321 Avenida Peru",
+    "email": "julio@gmail.com",
+    "businessName": "Flores Artesanal",
+    "businessAddress": "874 Calle Angosta",
+    "password": "password123",
+    "photo": "https://elcomercio.pe/resizer/TIGMyxx573AXPg1cFLhlbxuAtpE=/580x330/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/7HODVPOG7ZFQBBXRKF6I5QEWTI.jpg",
+    "id": 3
+  }
+]
