@@ -39,5 +39,69 @@
       "id": 3,
       "isArtisan": 1
     }
+  ],
+  "customer": [
+    {
+      "name": "Carlos",
+      "surname": "Montana",
+      "phone": "123456789",
+      "address": "123 Street",
+      "email": "john@gmail.com",
+      "photo": "https://example.com/image1.jpg",
+      "age": "30",
+      "province": "Cusco",
+      "info": "Soy un buen cliente",
+      "password": "password123",
+      "isArtisan": 0,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Alice",
+      "surname": "Smith",
+      "phone": "987654321",
+      "address": "Main Avenue",
+      "email": "alice@gmail.com",
+      "password": "secret456",
+      "photo": "https://example.com/image2.jpg",
+      "isArtisan": 0
+    },
+    {
+      "name": "Antonella",
+      "surname": "gonzales",
+      "phone": "98837337",
+      "address": "lima",
+      "email": "Anto@gmail.com",
+      "password": "12345",
+      "photo": "ass",
+      "id": "3",
+      "isArtisan": 0
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "name": "Ropa"
+    },
+    {
+      "id": 2,
+      "name": "Joyas"
+    },
+    {
+      "id": 3,
+      "name": "Accesorios"
+    },
+    {
+      "id": 4,
+      "name": "Decoración"
+    },
+    {
+      "id": 5,
+      "name": "Juguetes"
+    },
+    {
+      "id": 6,
+      "name": "Otros"
+    }
   ]
 }
